@@ -10,7 +10,7 @@ A data-driven depot management solution designed to improve **visibility, accoun
 
 ---
 
-## 🎯 Key Values
+# 🎯 Key Values
 
 * **Interactive reporting** — actively involves CRAs in the clinical trial supply process.
 * **Data-driven resupply strategies** — helps prevent both overstocking and understocking.
@@ -65,6 +65,7 @@ Designed for the **Depot team** to provide a broader operational overview across
 * **Purchase planning**
 * **Resupply forecasting**
 
+<img width="1227" height="390" alt="Depot dashboard — Start page" src="https://github.com/user-attachments/assets/af9a657a-4a31-4858-a62e-a8e65523af86" />
 ---
 
 # 📊 Dashboard
@@ -73,7 +74,7 @@ Designed for the **Depot team** to provide a broader operational overview across
 
 The start page provides an overview of the study and enables users to navigate to the relevant reporting areas.
 
-<img width="1227" height="390" alt="Depot dashboard — Start page" src="https://github.com/user-attachments/assets/af9a657a-4a31-4858-a62e-a8e65523af86" />
+<img width="1382" height="602" alt="image" src="https://github.com/user-attachments/assets/b0a0c489-85ab-469e-9d4f-ec21537e95ff" />
 
 ---
 
@@ -81,7 +82,7 @@ The start page provides an overview of the study and enables users to navigate t
 
 Provides visibility into depot inventory, stock movements, and key supply metrics.
 
-<img width="1386" height="567" alt="Depot stock dashboard" src="https://github.com/user-attachments/assets/ba1eaf1d-fa28-4f08-8943-69ed0380919c" />
+<img width="1387" height="582" alt="Country level dashboard" src="https://github.com/user-attachments/assets/e677d472-2c03-4287-adcb-149ec4aa9da1" />
 
 ---
 
@@ -89,9 +90,8 @@ Provides visibility into depot inventory, stock movements, and key supply metric
 
 Country-level reporting provides visibility into supply activity and inventory across participating countries.
 
-<img width="1387" height="582" alt="Country level dashboard" src="https://github.com/user-attachments/assets/e677d472-2c03-4287-adcb-149ec4aa9da1" />
-
 <img width="1395" height="660" alt="Country level supply reporting" src="https://github.com/user-attachments/assets/e9493ba3-3da4-4c23-8a7e-3b461e387dd2" />
+<img width="1387" height="662" alt="Site level dashboard" src="https://github.com/user-attachments/assets/6fef14a7-6360-4597-918f-cb78a2f1f72d" />
 
 ---
 
@@ -99,9 +99,8 @@ Country-level reporting provides visibility into supply activity and inventory a
 
 Site-level reporting provides detailed visibility into individual site inventory, shipments, and resupply requirements.
 
-<img width="1387" height="662" alt="Site level dashboard" src="https://github.com/user-attachments/assets/6fef14a7-6360-4597-918f-cb78a2f1f72d" />
-
 <img width="1391" height="612" alt="Site level supply reporting" src="https://github.com/user-attachments/assets/eeaf3171-4bb4-4575-97de-d6fffa3018b6" />
+<img width="1387" height="681" alt="Depot internal report" src="https://github.com/user-attachments/assets/eb9bcead-49ee-4daf-8d89-ae2b31faeea6" />
 
 ---
 
@@ -109,11 +108,14 @@ Site-level reporting provides detailed visibility into individual site inventory
 
 The internal depot report provides the operational team with a more detailed view of inventory, purchasing, supply trends, and depot-level performance.
 
-<img width="1387" height="681" alt="Depot internal report" src="https://github.com/user-attachments/assets/eb9bcead-49ee-4daf-8d89-ae2b31faeea6" />
 
 <img width="1387" height="672" alt="Depot internal statistics" src="https://github.com/user-attachments/assets/8999994a-4117-418b-bb2e-782e8a3f75cf" />
 
 <img width="1382" height="650" alt="Depot internal supply trends" src="https://github.com/user-attachments/assets/4a611d0f-1368-42b9-8256-2c6ab0334390" />
+
+<img width="1380" height="642" alt="image" src="https://github.com/user-attachments/assets/aadf022b-ef9b-41b0-9990-9b9b02616057" />
+
+<img width="1377" height="657" alt="image" src="https://github.com/user-attachments/assets/b597a59b-bb05-4ff9-8feb-46bdda6ebd1a" />
 
 ---
 
